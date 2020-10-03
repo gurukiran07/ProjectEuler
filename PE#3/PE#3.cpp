@@ -6,7 +6,7 @@ using namespace std;
  * What is the largest prime factor of the number 600851475143 ?
  */
 
-unsigned long long int LargestPrimefactor(long long int n){
+unsigned long long int LargestPrimefactor(unsigned long long int n){
     int i = 2;
     while(n>1){
         while(n%i==0){
