@@ -42,6 +42,5 @@ Code written in:
 
 Project Euler badge:
 
-![img](https://projecteuler.net/profile/Ch3steR.png)
-
-<sub>Link: https://projecteuler.net/profile/Ch3steR.png</sub>
+<img src="https://projecteuler.net/profile/Ch3steR.png" height=90/>
+<sub> Link to <b>Project Euler [badge](https://projecteuler.net/profile/Ch3steR.png)</b> </sub></br>
