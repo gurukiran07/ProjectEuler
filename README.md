@@ -43,5 +43,4 @@ Code written in:
 Project Euler badge:
 
 ![img](https://projecteuler.net/profile/Ch3steR.png)
-
 <sub>Link: https://projecteuler.net/profile/Ch3steR.png</sub>
