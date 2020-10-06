@@ -5,11 +5,11 @@ Solutions to Project Euler in C++ and Python are avaiable here. The code provide
 Clone answers locally using:
 <pre><code><b>gurukiran@Ch3steR</b>:~$ git clone https://github.com/gurukiran07/ProjectEuler.git ProjectEuler</code></pre>
 
-Code written in:
+### Code written in:
 - **C++14** with gcc version **6.3.0** (MinGW.org **GCC-6.3.0-1**) in windows, in ubuntu g++ (**Ubuntu 9.3.0-10ubuntu2) 9.3.0**
 - **Cpython3.8.2**
 
-General code format for C++:
+### General code format for C++:
 ```C++
 #include<iostream>
 
@@ -26,7 +26,7 @@ General code format for C++:
  }
  ```
  
-Running `PE#QN.cpp`<sup>*</sup> in terminal:
+#### Running `PE#QN.cpp`<sup>*</sup> in terminal:
 <pre><code><b>gurukiran@Ch3steR</b>:~$ g++ --version
 g++ (Ubuntu 9.3.0-10ubuntu2) 9.3.0
 Copyright (C) 2019 Free Software Foundation, Inc.
@@ -36,7 +36,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 <b>gurukiran@Ch3steR</b>:~$ g++ PE#QN.cpp -o PE#QN && ./PE#QN</code></pre>
 <sub> * In `PE#QN.cpp` *QN* means question number, say you want to run 3rd question,then use `PE#3.cpp`.</sub>
  
- General code format for Python:
+### General code format for Python:
  
  ```python
  """
@@ -50,14 +50,14 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  
  func()
  ```
-Running `PE#QN.py`<sup>*</sup> in terminal:
+#### Running `PE#QN.py`<sup>*</sup> in terminal:
 <pre><code>gurukiran@Ch3steR</b>:~$ python3 --version
 Python 3.8.2
 gurukiran@Ch3steR</b>:~$ python3 PE#QN.py</code></pre>
 <sub> * In `PE#QN.py` *QN* means question number, say you want to run 3rd question,then use `PE#3.py`.
 
 
-Project Euler badge:
+### Project Euler badge:
 
 <img src="https://projecteuler.net/profile/Ch3steR.png" height=90/>
 
