@@ -42,7 +42,7 @@ uint64_t Adjacent13digit(string num){
 			if(num[i+j]=='0')break;
 			prod = prod*Int(num[i+j]);
 		}
-		if (prod>max)max=prod;
+		max = prod>max?prod:max;
 	}
 			
 	return max;
