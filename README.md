@@ -1,6 +1,6 @@
 # ProjectEuler
 
-Solutions to Project Euler in C++ and Python are avaiable here. The code provided here is for reference only may contain bad code. Add reference to sources which helped me solve the problem in the code as a comment in the format(`Reference : reference_link`).
+Solutions to Project Euler in C++ and Python are avaiable here. The code provided here is for reference only may contain bad code. Add reference to sources which helped me solve the problem in the code as a comment in the format(`Reference : reference_link`). Added `README.md` to some solutions in folder where I felt explanation is needed to really understand what's happening.
 
 Clone answers locally using:
 <pre><code><b>gurukiran@Ch3steR</b>:~$ git clone https://github.com/gurukiran07/ProjectEuler.git ProjectEuler</code></pre>
