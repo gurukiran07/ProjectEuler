@@ -55,6 +55,8 @@ Running `PE#QN.py`<sup>*</sup> in terminal:
 Python 3.8.2
 gurukiran@Ch3steR</b>:~$ python3 PE#QN.py</code></pre>
 <sub> * In `PE#QN.py` *QN* means question number, say you want to run 3rd question,then use `PE#3.py`.
+
+
 Project Euler badge:
 
 <img src="https://projecteuler.net/profile/Ch3steR.png" height=90/>
