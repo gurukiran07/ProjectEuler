@@ -3,7 +3,7 @@
 Solutions to Project Euler in C++ and Python are avaiable here. The code provided here is for reference only may contain bad code. Add reference to sources which helped me solve the problem in the code as a comment in the format(`Reference : reference_link`).
 
 Clone answers locally using:
-<pre><code><b>gurukiran@Ch3steR</b>: git clone https://github.com/gurukiran07/ProjectEuler.git ProjectEuler</code></pre>
+<pre><code><b>gurukiran@Ch3steR</b>:~$ git clone https://github.com/gurukiran07/ProjectEuler.git ProjectEuler</code></pre>
 
 General code format for C++:
 ```C++
@@ -23,13 +23,13 @@ General code format for C++:
  ```
  
  Running `PE#QN.cpp`<sup>1</sup> in terminal:
-<pre><code><b>gurukiran@Ch3steR</b>: g++ --version
+<pre><code><b>gurukiran@Ch3steR</b>:~$ g++ --version
 g++ (Ubuntu 9.3.0-10ubuntu2) 9.3.0
 Copyright (C) 2019 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  
-<b>gurukiran@Ch3steR</b>: g++ PE#QN.cpp -o PE#QN && ./PE#QN</code></pre>
+<b>gurukiran@Ch3steR</b>:~$ g++ PE#QN.cpp -o PE#QN && ./PE#QN</code></pre>
  <sub>  1: In `PE#QN.cpp` *QN* means question number, say you want to run 3rd question,then use `PE#3.cpp`.</sub>
  
 
