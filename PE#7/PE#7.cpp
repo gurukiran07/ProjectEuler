@@ -26,7 +26,7 @@ uint64_t Prime10_001(){
 			++count;
 			prime = i;
 		}
-		++i;
+		i=i+2;;
 	}
 	return prime;
 }
