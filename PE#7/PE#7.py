@@ -24,4 +24,4 @@ def prime_10001():
     i = i + 2
   return prime
   
-prime_10001()
+print(prime_10001())
