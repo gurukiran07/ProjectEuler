@@ -12,7 +12,7 @@ bool isPrime(uint64_t num){
 	if (num==1 || num%2==0 || num%3==0)
 		return false;
 
-	for(size_t i=5; i*i<=num;++i){
+	for(size_t i=5; i*i<=num;i=i+2){
 		if(num%i==0)return false;}
 	return true;
 }
