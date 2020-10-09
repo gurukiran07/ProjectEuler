@@ -56,9 +56,9 @@ OR
  func()
  ```
 #### Running `PE#QN.py`<sup>*</sup> in terminal:
-<pre><code>gurukiran@Ch3steR</b>:~$ python3 --version
+<pre><code><b>gurukiran@Ch3steR</b>:~$ python3 --version
 Python 3.8.2
-gurukiran@Ch3steR</b>:~$ python3 PE#QN.py</code></pre>
+<b>gurukiran@Ch3steR</b>:~$ python3 PE#QN.py</code></pre>
 <sub> * In `PE#QN.py` *QN* means question number, say you want to run 3rd question,then use `PE#3.py`.
 
 
