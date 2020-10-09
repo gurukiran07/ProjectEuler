@@ -31,6 +31,7 @@ using namespace std;
 */
 
 vector<vector<int>> readFile();
+vector<vector<int>> terminalReadFile();
 
 void LargestProduct(){
 	vector<vector<int>>vec(readFile());
@@ -83,5 +84,18 @@ vector<vector<int>> readFile(){
 		temp.clear();
 	}
 
+	return vec;
+}
+
+vector<vector<int>> terminalReadFile(){
+	vector<vector<int>>vec(20, vector<int>(20, 0));
+
+	int a;
+	for(size_t i=0; i<20; ++i){
+		for(size_t j=0; j<20; ++j){
+			cin>>a;
+			vec[i][j]=a;
+		}
+	}
 	return vec;
 }
