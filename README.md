@@ -33,7 +33,7 @@ Copyright (C) 2019 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  
-<b>gurukiran@Ch3steR</b>:~$ g++ PE#QN.cpp -o PE#QN && ./PE#QN</code></pre>
+<b>gurukiran@Ch3steR</b>:~$ g++ PE#QN.cpp -std=c++14 -o PE#QN && ./PE#QN</code></pre>
 <sub> * In `PE#QN.cpp` *QN* means question number, say you want to run 3rd question,then use `PE#3.cpp`.</sub>
 
 When program involves reading file then we use pipe(`|`).
