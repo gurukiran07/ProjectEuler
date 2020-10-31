@@ -2,6 +2,7 @@
 using namespace std;
 
 // Reference : https://www.mathblog.dk/project-euler-15/
+// Reference : https://math.stackexchange.com/a/286439
 
 uint64_t LatticePaths(){
 	int size = 20;
