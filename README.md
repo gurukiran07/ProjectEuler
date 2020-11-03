@@ -1,6 +1,6 @@
 # ProjectEuler
 
-Solutions to Project Euler in C++ and Python are avaiable here. The code provided here is for reference only may contain bad code. Add reference to sources which helped me solve the problem in the code as a comment in the format(`Reference : reference_link`). Added `README.md` to some solutions in folder where I felt explanation is needed to really understand what's happening (example : [*`PE#9/README.md`*](https://github.com/gurukiran07/ProjectEuler/blob/main/PE%239/README.md))
+Solutions to Project Euler in C++ and Python are avaiable here. The code provided here is for reference only may contain bad code. Add reference to sources which helped me solve the problem in the code as a comment in the format(`Reference : reference_link`). Added `README.md` to some solutions in folder where I felt explanation is needed to really understand what's happening (example : [**`PE#9/README.md`**](https://github.com/gurukiran07/ProjectEuler/blob/main/PE%239/README.md))
 
 Clone answers locally using:
 <pre><code><b>gurukiran@Ch3steR</b>:~$ git clone https://github.com/gurukiran07/ProjectEuler.git ProjectEuler</code></pre>
@@ -44,7 +44,7 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 <b>gurukiran@Ch3steR</b>:~$ g++ PE#QN.cpp -std=c++14 -o PE#QN && ./PE#QN</code></pre>
 <sub> * In `PE#QN.cpp` *QN* means question number, say you want to run 3rd question,then use `PE#3.cpp`.</sub>
 
-When program involves reading file then we use pipe(`|`).
+When program involves reading file then we use [**`pipe(|)`**](https://en.wikipedia.org/wiki/Pipeline_(Unix)).
 <pre><code><b>gurukiran@Ch3steR</b>:~$ cat file_name.txt | ./PE#QN
 OR
 <b>gurukiran@Ch3steR</b>:~$ echo "contents of the file" | ./PE#QN</code></pre>
