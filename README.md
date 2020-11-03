@@ -26,6 +26,14 @@ Clone answers locally using:
  }
  ```
  
+ #### Code is formatted using [`clang-format-9`](https://packages.ubuntu.com/focal/clang-format-9)
+- Installing `clang-format-9` in ubuntu.
+   <pre><code><b>gurukiran@Ch3steR</b>:~$ sudo apt install clang-format-9</code></pre>
+- Running `clang-format-9` to format code.
+  <pre><code><b>gurukiran@Ch3steR</b>:~$ clang-format-9 -style=Google -i PE#QN.cpp</code></pre>
+ 
+ 
+ 
 #### Running `PE#QN.cpp`<sup>*</sup> in terminal:
 <pre><code><b>gurukiran@Ch3steR</b>:~$ g++ --version
 g++ (Ubuntu 9.3.0-10ubuntu2) 9.3.0
