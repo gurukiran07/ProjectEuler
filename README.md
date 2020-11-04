@@ -1,4 +1,10 @@
-# ProjectEuler <img align="right" src="https://projecteuler.net/profile/Ch3steR.png" height=90 />
+
+<a href="https://projecteuler.net/profile/Ch3steR.png">
+    <img align="right" src="https://projecteuler.net/profile/Ch3steR.png" height=90 />
+</a>
+
+Project Euler
+=============
 
 Solutions to Project Euler in C++ and Python are avaiable here. The code provided here is for reference only may contain bad code. Add reference to sources which helped me solve the problem in the code as a comment in the format(`Reference : reference_link`). Added `README.md` to some solutions in folder where I felt explanation is needed to really understand what's happening (example : [**`PE#9/README.md`**](https://github.com/gurukiran07/ProjectEuler/blob/main/PE%239/README.md))
 
