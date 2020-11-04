@@ -1,4 +1,4 @@
-# ProjectEuler
+# ProjectEuler <img align="right" src="https://projecteuler.net/profile/Ch3steR.png" height=90 />
 
 Solutions to Project Euler in C++ and Python are avaiable here. The code provided here is for reference only may contain bad code. Add reference to sources which helped me solve the problem in the code as a comment in the format(`Reference : reference_link`). Added `README.md` to some solutions in folder where I felt explanation is needed to really understand what's happening (example : [**`PE#9/README.md`**](https://github.com/gurukiran07/ProjectEuler/blob/main/PE%239/README.md))
 
@@ -68,10 +68,3 @@ OR
 Python 3.8.2
 <b>gurukiran@Ch3steR</b>:~$ python3 PE#QN.py</code></pre>
 <sub> * In `PE#QN.py` *QN* means question number, say you want to run 3rd question,then use `PE#3.py`.
-
-
-### Project Euler badge:
-
-<img src="https://projecteuler.net/profile/Ch3steR.png" height=90/>
-
-<sub> *Link to <b>Project Euler [badge](https://projecteuler.net/profile/Ch3steR.png)*</b> </sub></br>
