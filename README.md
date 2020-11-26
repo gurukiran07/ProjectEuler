@@ -50,10 +50,13 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 <b>gurukiran@Ch3steR</b>:~$ g++ PE#QN.cpp -std=c++14 -o PE#QN && ./PE#QN</code></pre>
 <sub> * In `PE#QN.cpp` *QN* means question number, say you want to run 3rd question,then use `PE#3.cpp`.</sub>
 
-When program involves reading file then we use [**`pipe(|)`**](https://en.wikipedia.org/wiki/Pipeline_(Unix)).
+When program involves reading file then we use [**`pipe(|)`**](https://en.wikipedia.org/wiki/Pipeline_(Unix)) or [**`xclip`**](https://linux.die.net/man/1/xclip).
 <pre><code><b>gurukiran@Ch3steR</b>:~$ cat file_name.txt | ./PE#QN
-OR
-<b>gurukiran@Ch3steR</b>:~$ echo "contents of the file" | ./PE#QN</code></pre>
+# OR
+<b>gurukiran@Ch3steR</b>:~$ echo "contents of the file" | ./PE#QN
+# OR
+# Copy contents and use xclip to redirect clipboard's contents
+<b>gurukiran@Ch3steR</b>:~$ xclip -selection clipboard -o | ./PE#QN</code></pre>
  
 ### General code format for Python:
  
